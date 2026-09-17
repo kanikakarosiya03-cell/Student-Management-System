@@ -1,0 +1,61 @@
+{
+    "students": [
+        {
+            "name": "Kanika",
+            "age": "19",
+            "email": "kanika@gmail.com",
+            "roll_no": "1",
+            "grades": {
+                "english": 98.0,
+                "Maths": 95.0,
+                "Computer Organization": 95.0
+            }
+        },
+        {
+            "name": "Rohan karosiya",
+            "age": 20,
+            "email": "rohankarosiya@gmail.com",
+            "roll_no": "2",
+            "grades": {
+                "Maths": 84.0,
+                "Englidh": 98.0,
+                "Computer organization": 90.0,
+                "Hindi": 89.0
+            }
+        },
+        {
+            "name": "Shahin Parveen",
+            "age": 20,
+            "email": "shahin@gmail.com",
+            "roll_no": "3",
+            "grades": {
+                "Maths": 86.0,
+                "English": 89.0,
+                "Computer Organization": 90.0
+            }
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Priyanka",
+            "age": 30,
+            "email": "priya@gmail.com",
+            "emp_id": "1",
+            "subject": "English"
+        },
+        {
+            "name": "Aanya",
+            "age": 25,
+            "email": "aanya@gmail.com",
+            "emp_id": "2",
+            "subject": "Maths"
+        },
+        {
+            "name": "Amit kumar yadav",
+            "age": 30,
+            "email": "amit@gmail.com",
+            "emp_id": "3",
+            "subject": "Computer organization"
+        }
+    ]
+}
